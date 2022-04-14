@@ -90,8 +90,8 @@
   },
   {
     "_comment": "Reihe 2 Platz 6",
-    "id": "Benjamin Borsch",
-    "color": { "r": 135, "g": 220, "b": 55 }
+    "id": "",
+    "color": { "r": 255, "g": 255, "b": 255 }
   },
 
   {
@@ -127,8 +127,8 @@
 
   {
     "_comment": "Reihe 4 Platz 1",
-    "id": "",
-    "color": { "r": 255, "g": 255, "b": 255 }
+    "id": "Fabian",
+    "color": { "r": 2, "g": 55, "b": 255 }
   },
   {
     "_comment": "Reihe 4 Platz 2",
